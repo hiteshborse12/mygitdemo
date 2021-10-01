@@ -13,6 +13,7 @@
 		924D5D6C27048EF70025F81F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924D5D6A27048EF70025F81F /* Main.storyboard */; };
 		924D5D6E27048EF90025F81F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 924D5D6D27048EF90025F81F /* Assets.xcassets */; };
 		924D5D7127048EF90025F81F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 924D5D6F27048EF90025F81F /* LaunchScreen.storyboard */; };
+		92673DB42706C8FA00CE1CE7 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92673DB32706C8FA00CE1CE7 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		924D5D6D27048EF90025F81F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		924D5D7027048EF90025F81F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		924D5D7227048EF90025F81F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92673DB32706C8FA00CE1CE7 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				924D5D6627048EF70025F81F /* SceneDelegate.swift */,
 				924D5D6827048EF70025F81F /* ViewController.swift */,
 				924D5D6A27048EF70025F81F /* Main.storyboard */,
+				92673DB32706C8FA00CE1CE7 /* Test.swift */,
 				924D5D6D27048EF90025F81F /* Assets.xcassets */,
 				924D5D6F27048EF90025F81F /* LaunchScreen.storyboard */,
 				924D5D7227048EF90025F81F /* Info.plist */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				924D5D6927048EF70025F81F /* ViewController.swift in Sources */,
+				92673DB42706C8FA00CE1CE7 /* Test.swift in Sources */,
 				924D5D6527048EF70025F81F /* AppDelegate.swift in Sources */,
 				924D5D6727048EF70025F81F /* SceneDelegate.swift in Sources */,
 			);
